@@ -112,7 +112,7 @@ int main() {
     fruitY = rand() % maxY;
 
 
-    do {
+    do 
     	
         Draw();
         Console();
